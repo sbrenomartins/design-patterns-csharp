@@ -1,0 +1,14 @@
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.exe
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.deps.json
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.runtimeconfig.json
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.dll
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.pdb
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.AssemblyInfoInputs.cache
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.AssemblyInfo.cs
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.dll
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\refint\FactoryMethodExample.dll
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.pdb
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.genruntimeconfig.cache
+C:\Users\brenomartinssilva_fr\Documents\www\dotnet\FactoryMethodExample\FactoryMethodExample\obj\Debug\net8.0\ref\FactoryMethodExample.dll
